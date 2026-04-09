@@ -1,17 +1,17 @@
 # 🔐 Password Checker (Python)
 
-Este é um projeto simples em Python criado para praticar conceitos básicos da linguagem, como loops, condicionais e manipulação de strings.
+This is a simple Python project created to practice basic programming concepts such as loops, conditionals, and string manipulation.
 
-## 📌 Descrição
+## 📌 Description
 
-O programa solicita ao usuário que digite uma senha e verifica se ela é forte com base em alguns critérios.
+The program asks the user to enter a password and checks whether it is strong based on specific criteria.
 
-A execução continua em loop até que uma senha forte seja informada.
+It keeps running in a loop until a strong password is provided.
 
-## ✅ Critérios de senha forte
+## ✅ Strong Password Criteria
 
-Uma senha é considerada forte quando atende a todos os requisitos abaixo:
+A password is considered strong if it meets all the following requirements:
 
-- Possui pelo menos **8 caracteres**
-- Contém pelo menos **um número**
-- Contém pelo menos **uma letra maiúscula**
+- Has at least **8 characters**
+- Contains at least **one digit**
+- Contains at least **one uppercase letter**
